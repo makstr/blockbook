@@ -22,7 +22,7 @@
         "package_name": "backend-ethereum-archive",
         "package_revision": "satoshilabs-1",
         "system_user": "ethereum",
-        "version": "3.0.3",
+        "version": "3.0.4",
         "binary_url": "https://github.com/erigontech/erigon/releases/download/v3.0.4/erigon_v3.0.4_linux_amd64.tar.gz",
         "verification_type": "sha256",
         "verification_source": "1401c78aadf04f6f7e06a514f43a2636a2c668fded926b74446f791194cbb54c",
